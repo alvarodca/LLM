@@ -1,0 +1,9 @@
+.gitignore
+
+# Ignore models
+model.pth
+model_and_optimizer.pth
+
+
+# Ignore gpt2 directory
+gpt2/
