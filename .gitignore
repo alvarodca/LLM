@@ -3,7 +3,16 @@
 # Ignore models
 model.pth
 model_and_optimizer.pth
+review_classifier.pth
 
 
 # Ignore gpt2 directory
 gpt2/
+
+# CSV files
+*.CSV
+
+
+# Ignore SMS spam dataset and its zip file
+sms_spam_collection/
+sms_spam_collection.zip
