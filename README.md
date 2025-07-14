@@ -15,6 +15,8 @@ Chapter7.ipynb <- Jupyter file with notes on Fine-Tuning the model for instructi
 
 
 AppendixA.ipynb <- Jupyter file with notes on Pytorch basics
+AppendixD.ipynb <- Jupyter file with notes on how to improve training loop (done on google collab due to my GPU limitations)
+AppendixE.ipynb <- Also required GPU and copying a lot of code, however, the chapter was interesting
 
 chapter02.py, chapter03.py, chapter04.py, chapter05.py <- python file containing a copy of specific functions to implement them easily
 
