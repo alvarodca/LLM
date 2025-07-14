@@ -12,6 +12,10 @@ gpt2/
 # CSV files
 *.CSV
 
+# Json files
+*.Json
+
+
 
 # Ignore SMS spam dataset and its zip file
 sms_spam_collection/

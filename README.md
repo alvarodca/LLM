@@ -10,6 +10,9 @@ Chapter2.ipynb <- Jupyter file with notes on working with text data
 Chapter3.ipynb <- Jupyter file with notes on Attention Mechanisms
 Chapter4.ipynb <- Jupyter file with notes on implementing the GPT model
 Chapter5.ipynb <- Jupyter file with notes on Pretraining on unlabeled data
+Chapter6.ipynb <- Jupyter file with notes on Fine-Tuning the model for classification
+Chapter7.ipynb <- Jupyter file with notes on Fine-Tuning the model for instructions
+
 
 AppendixA.ipynb <- Jupyter file with notes on Pytorch basics
 
@@ -26,5 +29,6 @@ gpt2 <- Loaded trainable weights from GPT2
 sms_spam_collection <- contains dataset used for spam classification chapter 6
 test.csv, train.csv, validation.csv <- CSV splitted files of the above mentioned folder
 
+instruction-data.json <- json file for dataset Chapter 7
 
 the-verdict.txt <- txt file used on chapter 2 and 5
